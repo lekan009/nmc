@@ -1,23 +1,23 @@
 {
     "complete": "Complete",
-    "completecourse": "Complete course",
+    "completecourse": "Complete learning campaign",
     "completed": "Completed",
     "completiondate": "Completion date",
     "completionmenuitem": "Completion",
-    "couldnotloadreport": "Could not load the course completion report. Please try again later.",
-    "coursecompletion": "Course completion",
+    "couldnotloadreport": "Could not load the learning campaign completion report. Please try again later.",
+    "coursecompletion": "Learning campaign completion",
     "criteria": "Criteria",
     "criteriagroup": "Criteria group",
     "criteriarequiredall": "All criteria below are required",
     "criteriarequiredany": "Any criteria below are required",
     "inprogress": "In progress",
     "manualselfcompletion": "Manual self completion",
-    "nottracked": "You are currently not being tracked by completion in this course",
+    "nottracked": "You are currently not being tracked by completion in this learning campaign",
     "notyetstarted": "Not yet started",
     "pending": "Pending",
     "required": "Required",
     "requiredcriteria": "Required criteria",
     "requirement": "Requirement",
     "status": "Status",
-    "viewcoursereport": "View course report"
+    "viewcoursereport": "View learning campaign report"
 }

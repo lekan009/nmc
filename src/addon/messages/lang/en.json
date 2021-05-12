@@ -8,7 +8,7 @@
     "blockuser": "Block user",
     "blockuserconfirm": "Are you sure you want to block {{$a}}?",
     "contactableprivacy": "Accept messages from:",
-    "contactableprivacy_coursemember": "My contacts and anyone in my courses",
+    "contactableprivacy_coursemember": "My contacts and anyone in my learning campaigns",
     "contactableprivacy_onlycontacts": "My contacts only",
     "contactableprivacy_site": "Anyone on the site",
     "contactblocked": "Contact blocked",

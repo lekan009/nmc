@@ -1,6 +1,6 @@
 {
     "addnewnote": "Add a new note",
-    "coursenotes": "Course notes",
+    "coursenotes": "Learning campaign notes",
     "deleteconfirm": "Delete this note?",
     "eventnotecreated": "Note created",
     "eventnotedeleted": "Note deleted",
@@ -11,5 +11,5 @@
     "publishstate": "Context",
     "sitenotes": "Site notes",
     "userwithid": "User with ID {{id}}",
-    "warningnotenotsent": "Couldn't add note(s) to course {{course}}. {{error}}"
+    "warningnotenotsent": "Couldn't add note(s) to learning campaign {{course}}. {{error}}"
 }

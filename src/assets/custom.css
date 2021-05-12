@@ -1,0 +1,19 @@
+/* custom style for moodle app customization 
+ * Author:  joshuaomotayo
+ * Url:     http://olalekan.pw
+ * Email:   admin@olalekan.pw
+*/
+
+
+/* logo */
+
+ion-app.app-root page-core-login-credentials img.login-logo, ion-app.app-root page-core-login-reconnect img.login-logo, ion-app.app-root page-core-login-site img.login-logo, .core-login-site-logo img {
+    width: 100%;
+    max-width: 45% !important;
+    padding: 60px 0 !important
+}
+
+/* hide timeline */
+.addon-block-timeline {
+    display: none;
+}
